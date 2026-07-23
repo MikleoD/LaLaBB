@@ -13,7 +13,7 @@ console.log("Gyro Physics Input loaded");
 
 // Force du mouvement
 
-const POWER = 5;
+const POWER = 12;
 
 
 // vitesse oscillation
