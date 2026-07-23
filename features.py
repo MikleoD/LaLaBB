@@ -44,7 +44,7 @@ PANTS_ZONE = {
 
 try:
 
-    from live2d_wrapper import L2DNameSpace
+    from Engine import L2DNameSpace
 
 except Exception:
 
