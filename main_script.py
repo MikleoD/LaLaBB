@@ -7,7 +7,7 @@
 from browser import document, aio, window, bind, html
 
 from bake_logger import logger
-from live2d_wrapper import load_live2d, L2DNameSpace
+from Engine import load_live2d, L2DNameSpace
 
 
 
