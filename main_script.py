@@ -15,7 +15,7 @@ from Engine import load_live2d, L2DNameSpace
 # CHANGE THIS LINE ONLY WITH YOUR Lapis model3.json URL
 # ============================================================
 
-LAPIS_MODEL_URL = r"https://mikleod.github.io/LapisLazuli-BaseBall/LapisLazuli5.0/Lapis.model3.json"
+LAPIS_MODEL_URL = r"https://mikleod.github.io/LaLaBB/legacy_js_ver/A01.model3.json"
 
 # ============================================================
 
