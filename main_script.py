@@ -1,6 +1,6 @@
 """
 # Main script
-# Modified for automatic Lapis-lazuli Live2D loading
+# Modified for Personal Settings
 """
 
 
@@ -12,7 +12,7 @@ from Engine import load_live2d, L2DNameSpace
 
 
 # ============================================================
-# CHANGE THIS LINE ONLY WITH YOUR Lapis model3.json URL
+# CHANGE THIS LINE ONLY WITH YOUR model3.json URL
 # ============================================================
 
 LAPIS_MODEL_URL = r"https://mikleod.github.io/LaLaBB/legacy_js_ver/A01.model3.json"
@@ -218,7 +218,6 @@ def on_load():
 
 
 
-    # Start loading exactly like the original viewer
 
     on_click()
 
