@@ -1,6 +1,4 @@
 """
-Live2D SDK 2/3/4 viewer brython script
-
 Modified:
 - Expose Pixi app through L2DNameSpace for external control
 """
