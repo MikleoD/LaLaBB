@@ -5,34 +5,28 @@
 
     <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Lapis-lazuli Live2D</title>
+    <title>Interactive Viewer</title>
 
 
-    <!-- Font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+KR">
 
 
-    <!-- Cubism SDK -->
     <script src="https://cubism.live2d.com/sdk-web/cubismcore/live2dcubismcore.min.js"></script>
 
     <script src="https://cdn.jsdelivr.net/gh/dylanNew/live2d/webgl/Live2D/lib/live2d.min.js"></script>
 
 
-    <!-- Pixi 5.3.6 (compatible with live2d_wrapper.py) -->
     <script src="https://cdn.jsdelivr.net/npm/pixi.js@5.3.6/dist/pixi.min.js"></script>
 
 
-    <!-- pixi-live2d-display -->
     <script src="https://cdn.jsdelivr.net/npm/pixi-live2d-display/dist/index.min.js"></script>
 
 
-    <!-- Brython -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.11.2/brython.min.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.11.2/brython_stdlib.min.js"></script>
 
 
-    <!-- Scripts -->
     <script src="console_redirect.js"></script>
 
     <script type="text/python" src="main_script.py"></script>
@@ -50,7 +44,6 @@
 
 
 
-    <!-- Live2D canvas -->
 
     <canvas id="live2d_canvas"></canvas>
 
@@ -58,7 +51,7 @@
 
     <!--
         Hidden elements required by Brython.
-        They are invisible but necessary for main_script.py.
+        They are invisible but necessary for Engine.py.
     -->
 
     <div style="display:none;">
