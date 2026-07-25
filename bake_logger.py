@@ -1,6 +1,6 @@
 """
 # Logger bakery
-# Author: jupiterbjy@gmail.com
+# Author: jupiterbjy
 
 Bakes logger
 """
