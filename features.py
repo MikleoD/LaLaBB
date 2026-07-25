@@ -1,10 +1,10 @@
 """
 features.py
 
-Lapis-lazuli interactive features
+Viewer Interactive additional features
 
-- Auto blink
-- Pants toggle by touch zone
+- blink
+- Pants
 
 """
 
